@@ -11,8 +11,6 @@ This project is an IPL (Indian Premier League) match winner prediction system. I
 - [Machine Learning Model](#machine-learning-model)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -24,8 +22,8 @@ The project relies on a comprehensive dataset that includes:
 
 - IPL match data from previous seasons
 - Team performance statistics
-- Player performance statistics
-- Venue and weather data
+- Venue data
+- Ball by ball data of each match
 
 The data is preprocessed and cleaned to ensure its quality for training the machine learning model.
 
@@ -35,11 +33,10 @@ The heart of this project is the machine learning model that predicts the match 
 
 - Logistic Regression
 - Random Forest
-- Gradient Boosting
 
 The model is trained on historical data and evaluates different features to make predictions. The accuracy and performance of the model are continually evaluated and improved to ensure accurate predictions.
 
-## Usage
+## Guide to run this model
 
 To use the IPL Match Winner Prediction system:
 
