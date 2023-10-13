@@ -9,6 +9,8 @@ This project is an IPL (Indian Premier League) match winner prediction system. I
 - [Project Description](#project-description)
 - [Data](#data)
 - [Machine Learning Model](#machine-learning-model)
+- [Interface](#interface)
+- [Results](#results)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 
@@ -35,6 +37,10 @@ The heart of this project is the machine learning model that predicts the match 
 - Random Forest
 
 The model is trained on historical data and evaluates different features to make predictions. The accuracy and performance of the model are continually evaluated and improved to ensure accurate predictions.
+
+## Interface
+![](URL to the Image)
+
 
 ## Guide to run this model
 
